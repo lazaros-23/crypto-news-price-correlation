@@ -1,12 +1,32 @@
-# crypto-news-price-correlation
-Crypto price/news correlation POC
+# Crypto News-Price correlation
 
-## About Avalance
+Proof of Concept Project for the Crypto News-Price correlation.
 
-`Avalance` (AVAX) coin: <https://coinmarketcap.com/el/currencies/avalanche/>
+**Project Management Document:** <https://docs.google.com/document/d/19MJ_T_3Y7oA5kcOyW95NghsbLv40C-d5ZKfetxn8OtY/edit#>
 
-Avalanche Foundation Announces $180M DeFi Incentive Program
-<https://medium.com/avalancheavax/avalanche-foundation-announces-180m-defi-incentive-program-d320fdfafff7>
+## Project timeline
+
+1. 6/9/2019 - Initial commit
+2. 6/10/2019 - Added correlation plot
+3. 28/9/2019 - Final commit
+
+## Bitcoin
+Official website: https://bitcoin.org/el/
+
+<img src="https://github.com/lazaros-23/crypto-news-price-correlation/blob/main/assets/btc_logo.png" width="200" height="200" />
+
+## Ethereum
+
+Official website: <https://ethereum.org/en/>
+<img src="https://github.com/lazaros-23/crypto-news-price-correlation/blob/main/assets/ethereum_logo.png" width="200" height="100" />
+
+## Python libraries
+
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [seaborn](https://seaborn.pydata.org/)
+* [pytest](https://docs.pytest.org/)
 
 ## Requirements
 
@@ -19,13 +39,18 @@ Avalanche Foundation Announces $180M DeFi Incentive Program
 3. Web scrapping - News site
 <https://cryptopanic.com/news/avalanche-2/>
 
-## TODO
+## About Avalance
 
-Data sources: 
-1.
-2.
+`Avalance` (AVAX) coin: <https://coinmarketcap.com/el/currencies/avalanche/>
 
-[] Collect data from Binance (Bars)
-[] Find price changes >2 std
-[] Collect data from Twitter and extract sentiment(?)
-[] 
+Avalanche Foundation Announces $180M DeFi Incentive Program
+<https://medium.com/avalancheavax/avalanche-foundation-announces-180m-defi-incentive-program-d320fdfafff7>
+
+**Data sources:**
+
+1. Crypto prices (Binance API)
+2. Crpyto News (Twitter API)
+
+## Resources
+
+1. https://lunarcrush.com/
