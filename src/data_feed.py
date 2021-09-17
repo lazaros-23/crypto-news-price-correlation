@@ -1,3 +1,11 @@
+##################################
+#                                # 
+# Get Crypto new from Lunarcruch #
+#                                #
+##################################
+
+# https://lunarcrush.com/
+
 from web3 import Web3
 
 web3 = Web3(Web3.HTTPProvider('https://kovan.infura.io/v3/<infura_project_id>'))

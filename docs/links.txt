@@ -1,0 +1,9 @@
+https://scholar.smu.edu/cgi/viewcontent.cgi?article=1039&context=datasciencereview
+
+https://www.esri.com/arcgis-blog/products/arcgis-hub/announcements/extracting-twitter-data-using-python/
+
+https://towardsdatascience.com/extracting-data-from-twitter-using-python-5ab67bff553a
+
+https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/analyze-tweet-sentiment-in-python/
+
+

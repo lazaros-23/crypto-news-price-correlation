@@ -54,3 +54,4 @@ Avalanche Foundation Announces $180M DeFi Incentive Program
 ## Resources
 
 1. https://lunarcrush.com/
+2. https://santiment.net/
