@@ -6,4 +6,8 @@ https://towardsdatascience.com/extracting-data-from-twitter-using-python-5ab67bf
 
 https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/analyze-tweet-sentiment-in-python/
 
+https://medium.com/swlh/predict-bitcoin-by-reading-tweets-87e99d251fe6
 
+https://julesz12345.medium.com/cryptocurrency-prediction-using-twitter-d2aea8bfbc9f
+
+https://github.com/santiment/san-sdk/blob/master/ICDM_2019/ICDM.ipynb
