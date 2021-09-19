@@ -55,3 +55,17 @@ Avalanche Foundation Announces $180M DeFi Incentive Program
 
 1. https://lunarcrush.com/
 2. https://santiment.net/
+
+## Tweets (Twitter API)
+
+* Sentiment analysis of collected tweets
+* Tweet Volume
+* Google trends
+
+Query
+
+* Tweet has the words or hastags: ethereum, ether, eth
+* Tweet language english
+* test
+
+author_id, created_at, text, nb_faves, nb_responses, nb_retweeted, has_link, has_media, hyperlink

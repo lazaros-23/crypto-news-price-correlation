@@ -1,3 +1,10 @@
+Twitter ID from username
+https://tweeterid.com/
+
+Search Twitter for a specific twitter id
+https://twitter.com/cz_binance/status/1343775135174561793
+
+
 https://scholar.smu.edu/cgi/viewcontent.cgi?article=1039&context=datasciencereview
 
 https://www.esri.com/arcgis-blog/products/arcgis-hub/announcements/extracting-twitter-data-using-python/
@@ -9,5 +16,7 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-ap
 https://medium.com/swlh/predict-bitcoin-by-reading-tweets-87e99d251fe6
 
 https://julesz12345.medium.com/cryptocurrency-prediction-using-twitter-d2aea8bfbc9f
+
+https://github.com/julesz12345/Cryptocurrency-Prediction 
 
 https://github.com/santiment/san-sdk/blob/master/ICDM_2019/ICDM.ipynb

@@ -19,6 +19,8 @@ Polygon | $MATIC - @0xPolygon
 DCinvΞstor - @iamDCinvestor
 Alex Saunders - @AlexSaundersAU
 ETH Memes - @EthereumMemes
+MetaMask - @MetaMask
+MyEtherWallet | MEW - @myetherwallet
 Lyra - @lyrafinance
 ethereum.network - @EthereumNetw
 ConsenSys - @ConsenSys
@@ -40,6 +42,7 @@ Elon Musk - @elonmusk
 Cøbra - @CobraBitcoin
 Bitcoin is Saving - @BitcoinIsSaving
 John Carvalho - @BitcoinErrorLog
+ADAPad - @ADAPadofficial
 Bitcoin - @Bitcoin
 BITCOIN MAXIMALIST - @maxkeiser
 Erik Voorhees - @ErikVoorhees
