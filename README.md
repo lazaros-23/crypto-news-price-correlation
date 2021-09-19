@@ -7,7 +7,7 @@ Proof of Concept Project for the Crypto News-Price correlation.
 ## Project timeline
 
 1. 6/9/2021 - Initial commit
-2. 6/10/2021 - Added correlation plot
+2. 19/9/2021 - Added correlation plot
 3. 28/9/2021 - Final commit
 
 ## Bitcoin
