@@ -27,6 +27,8 @@ Official website: <https://ethereum.org/en/>
 * [matplotlib](https://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
 * [pytest](https://docs.pytest.org/)
+* [tweepy](https://docs.tweepy.org/en/latest/index.html)
+* [vaderSentiment](https://pypi.org/project/vaderSentiment/)
 
 ## Requirements
 
@@ -55,8 +57,13 @@ Avalanche Foundation Announces $180M DeFi Incentive Program
 
 1. https://lunarcrush.com/
 2. https://santiment.net/
+3. https://bitinfocharts.com/comparison/tweets-eth.html#3y
 
 ## Tweets (Twitter API)
+
+Twitter Dev: https://github.com/twitterdev
+Documentation: https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
+Postman: https://documenter.getpostman.com/view/9956214/T1LMiT5U
 
 * Sentiment analysis of collected tweets
 * Tweet Volume
@@ -66,6 +73,14 @@ Query
 
 * Tweet has the words or hastags: ethereum, ether, eth
 * Tweet language english
-* test
+* more than faves:100 (I can't search based on number of favorites in Twitter API v2)
+* limit:10-500 (Pagination needed)
 
-author_id, created_at, text, nb_faves, nb_responses, nb_retweeted, has_link, has_media, hyperlink
+author_id, created_at, text, public_metrics (like_count, quote_count, reply_count, retweet_count), has_link, has_media, hyperlink
+
+**Problem**
+Twitter API v2 can't search based on number of favorites, retweets.
+
+TODO
+ 
+* Total tweets per hour.
