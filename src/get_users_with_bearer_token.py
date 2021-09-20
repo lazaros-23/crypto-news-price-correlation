@@ -19,7 +19,6 @@ def create_url():
     url = "https://api.twitter.com/2/users/by?{}&{}".format(usernames, user_fields)
     return url
 
-
 def bearer_oauth(r):
     """
     Method required by bearer token authentication.
