@@ -45,9 +45,22 @@ John Carvalho - @BitcoinErrorLog
 ADAPad - @ADAPadofficial
 Bitcoin - @Bitcoin
 BITCOIN MAXIMALIST - @maxkeiser
+Citi - @Citi
+The Royal Family - @RoyalFamily
 Erik Voorhees - @ErikVoorhees
+Michaël van de Poppe - @CryptoMichNL
+WSB Chairman Crypto - @WSB__Chairman
+GasFarm - @GasFarmETH
+Kuai Token Official - @kuaitoken_KT
+Helin ÜLKER - @beautyofhelin
 Cardano Community - @Cardano
+Jarred Winn - @JarredWinn
+Cristiano Ronaldo - @Cristiano
+MacKenzie Scott - @mackenziescott
+The New York Times - @nytimes
+Bill Gates - @BillGates
 Crypto.com - @cryptocom
+50cent - @50cent
 KUCOIN - @kucoincom
 Coinbase - @coinbase
 FABRI CRYPTO - @FabriLemus7
@@ -59,6 +72,11 @@ Andreas M. Antonopoulos - @aantonop
 Marty Bent - @MartyBent
 Messari - @MessariCrypto
 PlanB - @100trillionUSD
+BlackRock - @blackrock
+Fidelity Investments - @Fidelity
+Vanguard - @Vanguard_Group
+Morgan Stanley - @MorganStanley
+Goldman Sachs - @GoldmanSachs
 Alex Gladstein - @Gladstein
 Josh Olszewicz (@CarpeNoctom)
 Nick Szabo - @NickSzabo4
@@ -102,6 +120,7 @@ Josie - @josiebellini
 Eric Wall - @ercwl
 Barry Silbert - @BarrySilbert
 Meltem Demirors - @Melt_Dem
+EmiSwap AMM - @EmiSwap
 Ryan Selkis - @twobitidiot
 Ari Paul - @AriDavidPaul
 Arianna Simpson - @AriannaSimpson
@@ -123,6 +142,7 @@ Notsofast - @notsofast
 Katie - @KatieTheRussian
 Michael Saylor - @michael_saylor
 SBF - @SBF_Alameda
+LATOKEN - @latokens
 Hasu - @hasufl
 Charlie Lee - @SatoshiLite
 Scoopy trooples - @scupytrooples

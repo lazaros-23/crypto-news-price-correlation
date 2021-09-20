@@ -20,3 +20,11 @@ https://julesz12345.medium.com/cryptocurrency-prediction-using-twitter-d2aea8bfb
 https://github.com/julesz12345/Cryptocurrency-Prediction 
 
 https://github.com/santiment/san-sdk/blob/master/ICDM_2019/ICDM.ipynb
+
+https://dev.to/twitterdev/building-high-quality-filters-for-getting-twitter-data-51h8 
+
+https://twitterdev.github.io/do_more_with_twitter_data/finding_the_right_data.html
+
+https://documenter.getpostman.com/view/9956214/T1LMiT5U#7358bba6-04d0-4edf-adda-309a900e0569
+
+https://towardsdatascience.com/an-extensive-guide-to-collecting-tweets-from-twitter-api-v2-for-academic-research-using-python-3-518fcb71df2a
