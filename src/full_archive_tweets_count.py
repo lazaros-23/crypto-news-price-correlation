@@ -9,9 +9,10 @@ bearer_token = os.environ.get("BEARER_TOKEN")
 search_url = "https://api.twitter.com/2/tweets/counts/all"
 
 # Optional params: start_time, end_time, since_id, until_id, next_token, granularity
-query_params = {'query': 'from:twitterdev',
+# Vizag gas leak -is:retweet
+query_params = {'query': 'Vizag gas leak -is:retweet',
                 'granularity': 'day', 
-                'start_time': '2020-01-01T00:00:00Z', 'start_time': '2020-12-31T00:00:00Z'}
+                'start_time': '2020-05-07T00:00:00.000Z', 'end_time': '2020-05-12T00:00:00.000Z'}
 
 
 def bearer_oauth(r):
