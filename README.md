@@ -84,3 +84,8 @@ Twitter API v2 can't search based on number of favorites, retweets.
 TODO
  
 * Total tweets per hour.
+
+Tweet query
+
+1. Get twitter API data
+2. Sentiment Analysis
