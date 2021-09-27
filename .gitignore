@@ -1,4 +1,7 @@
 docs/twitter_api_keys.txt
 config.yaml
 data/twitter_data_hourly_full.csv
+data/twitter_data_hourly_full_sentiment.csv
 data/tweets_df_sentiment.pkl
+data/NMRUSDT-1d-data.csv
+data/numerai_twitter_api.csv
