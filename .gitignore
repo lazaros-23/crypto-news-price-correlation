@@ -2,3 +2,5 @@ docs/twitter_api_keys.txt
 config.yaml
 
 data/ETH_twitter_api_sentiment.csv
+data/AUDIO_twitter_api_sentiment.csv
+data/AUDIO_twitter_api.csv

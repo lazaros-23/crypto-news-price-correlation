@@ -1,7 +1,6 @@
 import requests
 import os
 import json
-import csv
 
 # To set your environment variables in your terminal run the following line:
 # export 'BEARER_TOKEN'='<your_bearer_token>'
@@ -15,7 +14,7 @@ search_url = "https://api.twitter.com/2/tweets/counts/all"
 
 # Query:
 # - ethereum OR ether OR eth 
-query_params = {'query': 'ethereum OR ether OR eth',
+query_params = {'query': '(audiusproject OR audius OR $audio OR audiocoin) lang:en -is:retweet -is:reply',
                 'granularity': 'day', 
                 'start_time': '2020-01-01T00:00:00Z', 'end_time': '2021-08-31T00:00:00Z'}
 
